@@ -20,12 +20,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,java,go,cpp,bash,matlab,react,nextjs,nestjs,nodejs,angular,spring,flutter,postgres,mongodb,docker,kubernetes,linux" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,java,go,cpp,bash,react,nextjs,nestjs,nodejs,angular,spring,flutter,postgres,mongodb,docker,kubernetes,linux" alt="Skills" />
   </a>
-</p>
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanounDev&show_icons=true&theme=github_dark&hide_border=true" alt="KanounDev's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanounDev&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
