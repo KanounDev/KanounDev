@@ -12,14 +12,6 @@
 - 🛡️ **Applied ML & Security:** Classification, Isolation Forest anomaly detection, and Kubernetes runtime forensics
 - 💻 **Full-Stack & Cloud:** End-to-end web applications, containerized microservices, and real-time interactive tools
 
-### 📂 Featured Projects
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[PFE Hunter](https://github.com/KanounDev)** | Automated internship discovery pipeline with JobSpy scraping, Gemini CV/offer relevance scoring, an MCP server for Discord alerts, and a React dashboard. | `Python` `Node.js` `Gemini API` `MCP` `PostgreSQL` `React` `Docker` |
-| **[KubeSentinel](https://github.com/KanounDev)** | Kubernetes runtime security framework combining Falco threat detection, CIS/NIST static scanning, Isolation Forest anomaly detection, and Gemini MITRE ATT&CK reporting. | `Python` `Scikit-learn` `Falco` `Gemini API` `Docker` `Kubernetes` |
-| **[AirShred](https://github.com/KanounDev)** | Camera-based hand-gesture-to-music virtual instrument built on a custom nearest-neighbor pose classifier and real-time audio synthesis. | `React` `TypeScript` `MediaPipe` `Tone.js` |
-| **[MedUnity](https://github.com/KanounDev)** | Role-based medical records platform with access-controlled sharing and an integrated Gemini API assistant. | `Next.js` `NestJS` `PostgreSQL` `JWT` `Gemini API` |
-
 ### 🛠️ Languages and Tools
 - **AI & Data:** `Gemini API` `MCP` `Scikit-learn` `Pandas` `ETL Pipelines`
 - **Languages:** `Python` `TypeScript` `JavaScript` `Java` `Go` `C/C++` `SQL` `Bash` `MATLAB`
